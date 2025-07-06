@@ -1,0 +1,16 @@
+[
+  {
+    "productId": "e70b8989-b546-4c12-b757-f88e38426402",
+    "name": "Nike Air Jordan 1",
+    "price": 11999,
+    "rating": 4.5,
+    "stockQuantity": 45310
+  },
+  {
+    "productId": "bbaa5264-329d-4dd7-933b-06697927a40c",
+    "name": "adidas samba",
+    "price": 5999,
+    "rating": 4.2,
+    "stockQuantity": 23276
+  }
+]
